@@ -1,7 +1,7 @@
 ---
-title: Welcome to my blog
+title: "YOUR-TITLE"
+date: 2025-08-19
 ---
-theme: minima
 
 <!DOCTYPE html>
 <html lang="zh-CN">
